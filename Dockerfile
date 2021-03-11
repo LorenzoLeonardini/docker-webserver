@@ -27,6 +27,7 @@ RUN apk add --no-cache --update php8-fpm \
     php8 \
     php8-openssl \
     php8-pdo \
+    php8-curl \
     php8-pdo_mysql \
     php8-mbstring \
     php8-phar \
